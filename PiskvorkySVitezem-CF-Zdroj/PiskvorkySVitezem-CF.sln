@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{20D4826A-C6FA-45DB-90F4-C717570B9F32}") = "PiskvorkySVitezem-CF", "PiskvorkySVitezem-CF.csdproj", "{19419ED5-7DA8-4B61-A0E6-441A38C3C010}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{19419ED5-7DA8-4B61-A0E6-441A38C3C010}.Debug.ActiveCfg = Debug|Pocket PC
+		{19419ED5-7DA8-4B61-A0E6-441A38C3C010}.Debug.Build.0 = Debug|Pocket PC
+		{19419ED5-7DA8-4B61-A0E6-441A38C3C010}.Debug.Deploy.0 = Debug|Pocket PC
+		{19419ED5-7DA8-4B61-A0E6-441A38C3C010}.Release.ActiveCfg = Release|Pocket PC
+		{19419ED5-7DA8-4B61-A0E6-441A38C3C010}.Release.Build.0 = Release|Pocket PC
+		{19419ED5-7DA8-4B61-A0E6-441A38C3C010}.Release.Deploy.0 = Release|Pocket PC
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
